@@ -1,0 +1,27 @@
+2021-11-18 20:08:18,703  INFO [main] ELocalStoreApp:11 - The Values are accesed from the Excel sheet into SearchBox and navigated to SearchResults page
+ 2021-11-18 20:08:21,699  INFO [main] ELocalStoreApp:11 - The Desired product is selected
+ 2021-11-18 20:08:26,668  INFO [main] ELocalStoreApp:11 - The Desired product is added to wishlist
+ 2021-11-18 20:08:26,932 DEBUG [main] ELocalStoreApp:7 - SearchResult page found within HomePage
+ 2021-11-18 20:08:27,401 DEBUG [main] ELocalStoreApp:7 - The Desired choice could not be selected as the result page is available under Homepage
+ 2021-11-18 20:08:29,913  INFO [main] ELocalStoreApp:11 - The Desired product is selected
+ 2021-11-18 20:08:34,566  INFO [main] ELocalStoreApp:11 - The Desired product is added to cart
+ 2021-11-18 20:08:38,662  INFO [main] ELocalStoreApp:11 - Navigated to SearchResults page
+ 2021-11-18 20:08:41,830  INFO [main] ELocalStoreApp:11 - The Desired product is selected
+ 2021-11-18 20:08:47,195  INFO [main] ELocalStoreApp:11 - The Desired product is checked for delivery
+ 2021-11-18 20:08:49,338  INFO [main] ELocalStoreApp:11 - Navigated to the Login Page
+ 2021-11-18 20:08:49,695  INFO [main] ELocalStoreApp:11 - Navigated to Reset password page
+ 2021-11-18 20:08:58,765  WARN [main] ELocalStoreApp:15 - Too many attempts page opens sometimes!!!
+ 2021-11-18 20:08:58,765  INFO [main] ELocalStoreApp:11 - Navigated back to login page and notification is shown
+ 2021-11-18 20:08:59,305  INFO [main] ELocalStoreApp:11 - Cart Page popped
+ 2021-11-18 20:09:09,006  INFO [main] ELocalStoreApp:11 - Navigated to Checkout and returned to HomePage
+ 2021-11-18 20:09:09,504  INFO [main] ELocalStoreApp:11 - Cart Page popped
+ 2021-11-18 20:09:10,037  INFO [main] ELocalStoreApp:11 - Item successfully removed from cart
+ 2021-11-18 20:09:13,998  INFO [main] ELocalStoreApp:11 - Navigated to wishlist page
+ 2021-11-18 20:09:14,954  INFO [main] ELocalStoreApp:11 - Item successfully removed from wishlist
+ 2021-11-18 20:09:16,916  INFO [main] ELocalStoreApp:11 - Navigated to Contact Us page
+ 2021-11-18 20:09:20,308  INFO [main] ELocalStoreApp:11 - Entered contact details and notification shown
+ 2021-11-18 20:09:22,480  INFO [main] ELocalStoreApp:11 - Navigated to the Login Page
+ 2021-11-18 20:09:23,400  INFO [main] ELocalStoreApp:11 - Login Successful
+ 2021-11-18 20:09:25,425  INFO [main] ELocalStoreApp:11 - Navigated to About Us page
+ 2021-11-18 20:09:34,378  INFO [main] ELocalStoreApp:11 - Navigated to Bigsmall Facebook page
+ 

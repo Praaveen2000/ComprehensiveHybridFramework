@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="119994" started-at="2021-11-19T15:55:18 IST" finished-at="2021-11-19T15:57:18 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="119994" started-at="2021-11-19T15:55:18 IST" finished-at="2021-11-19T15:57:18 IST">
+      <class name="com.mindtree.runner.BigsmallSiteRunner">
+        <test-method status="PASS" signature="set()[pri:0, instance:com.mindtree.runner.BigsmallSiteRunner@1b26f7b2]" name="set" is-config="true" duration-ms="11844" started-at="2021-11-19T15:55:18 IST" finished-at="2021-11-19T15:55:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set -->
+        <test-method status="PASS" signature="addToWishlist()[pri:1, instance:com.mindtree.runner.BigsmallSiteRunner@1b26f7b2]" name="addToWishlist" duration-ms="10784" started-at="2021-11-19T15:55:30 IST" finished-at="2021-11-19T15:55:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToWishlist -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.mindtree.runner.BigsmallSiteRunner@1b26f7b2]" name="endTest" is-config="true" duration-ms="3" started-at="2021-11-19T15:55:41 IST" finished-at="2021-11-19T15:55:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="addToCart()[pri:2, instance:com.mindtree.runner.BigsmallSiteRunner@1b26f7b2]" name="addToCart" duration-ms="7223" started-at="2021-11-19T15:55:41 IST" finished-at="2021-11-19T15:55:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.mindtree.runner.BigsmallSiteRunner@1b26f7b2]" name="endTest" is-config="true" duration-ms="1" started-at="2021-11-19T15:55:48 IST" finished-at="2021-11-19T15:55:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="checkPIN()[pri:3, instance:com.mindtree.runner.BigsmallSiteRunner@1b26f7b2]" name="checkPIN" duration-ms="11033" started-at="2021-11-19T15:55:48 IST" finished-at="2021-11-19T15:55:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPIN -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.mindtree.runner.BigsmallSiteRunner@1b26f7b2]" name="endTest" is-config="true" duration-ms="0" started-at="2021-11-19T15:55:59 IST" finished-at="2021-11-19T15:55:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="retrievePassword()[pri:4, instance:com.mindtree.runner.BigsmallSiteRunner@1b26f7b2]" name="retrievePassword" duration-ms="9815" started-at="2021-11-19T15:55:59 IST" finished-at="2021-11-19T15:56:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- retrievePassword -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.mindtree.runner.BigsmallSiteRunner@1b26f7b2]" name="endTest" is-config="true" duration-ms="1" started-at="2021-11-19T15:56:09 IST" finished-at="2021-11-19T15:56:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="shopCheckout()[pri:5, instance:com.mindtree.runner.BigsmallSiteRunner@1b26f7b2]" name="shopCheckout" duration-ms="9668" started-at="2021-11-19T15:56:09 IST" finished-at="2021-11-19T15:56:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shopCheckout -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.mindtree.runner.BigsmallSiteRunner@1b26f7b2]" name="endTest" is-config="true" duration-ms="0" started-at="2021-11-19T15:56:19 IST" finished-at="2021-11-19T15:56:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="cartRemove()[pri:6, instance:com.mindtree.runner.BigsmallSiteRunner@1b26f7b2]" name="cartRemove" duration-ms="773" started-at="2021-11-19T15:56:19 IST" finished-at="2021-11-19T15:56:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartRemove -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.mindtree.runner.BigsmallSiteRunner@1b26f7b2]" name="endTest" is-config="true" duration-ms="1" started-at="2021-11-19T15:56:20 IST" finished-at="2021-11-19T15:56:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="wishListRemove()[pri:7, instance:com.mindtree.runner.BigsmallSiteRunner@1b26f7b2]" name="wishListRemove" duration-ms="5015" started-at="2021-11-19T15:56:20 IST" finished-at="2021-11-19T15:56:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wishListRemove -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.mindtree.runner.BigsmallSiteRunner@1b26f7b2]" name="endTest" is-config="true" duration-ms="1" started-at="2021-11-19T15:56:25 IST" finished-at="2021-11-19T15:56:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="ContactUs()[pri:8, instance:com.mindtree.runner.BigsmallSiteRunner@1b26f7b2]" name="ContactUs" duration-ms="4543" started-at="2021-11-19T15:56:25 IST" finished-at="2021-11-19T15:56:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContactUs -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.mindtree.runner.BigsmallSiteRunner@1b26f7b2]" name="endTest" is-config="true" duration-ms="1" started-at="2021-11-19T15:56:29 IST" finished-at="2021-11-19T15:56:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="validLogin()[pri:9, instance:com.mindtree.runner.BigsmallSiteRunner@1b26f7b2]" name="validLogin" duration-ms="2705" started-at="2021-11-19T15:56:29 IST" finished-at="2021-11-19T15:56:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.mindtree.runner.BigsmallSiteRunner@1b26f7b2]" name="endTest" is-config="true" duration-ms="1" started-at="2021-11-19T15:56:32 IST" finished-at="2021-11-19T15:56:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="AboutUs()[pri:10, instance:com.mindtree.runner.BigsmallSiteRunner@1b26f7b2]" name="AboutUs" duration-ms="41911" started-at="2021-11-19T15:56:32 IST" finished-at="2021-11-19T15:57:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AboutUs -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.mindtree.runner.BigsmallSiteRunner@1b26f7b2]" name="endTest" is-config="true" duration-ms="1" started-at="2021-11-19T15:57:14 IST" finished-at="2021-11-19T15:57:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="end()[pri:0, instance:com.mindtree.runner.BigsmallSiteRunner@1b26f7b2]" name="end" is-config="true" duration-ms="4565" started-at="2021-11-19T15:57:14 IST" finished-at="2021-11-19T15:57:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- com.mindtree.runner.BigsmallSiteRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

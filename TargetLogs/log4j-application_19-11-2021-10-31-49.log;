@@ -1,0 +1,10 @@
+2021-11-19 10:31:57,852 DEBUG [main] BigsmallSiteRunner:7 - SearchResult page found within HomePage
+ 2021-11-19 10:31:57,879 ERROR [main] BigsmallSiteRunner:19 - Not navigated to SearchResults page
+ 2021-11-19 10:31:57,896 ERROR [main] BigsmallSiteRunner:19 - Not navigated to the Login Page
+ 2021-11-19 10:31:57,914 ERROR [main] BigsmallSiteRunner:19 - Cart Page not popped
+ 2021-11-19 10:31:57,930 ERROR [main] BigsmallSiteRunner:19 - Cart Page not popped
+ 2021-11-19 10:31:57,947 ERROR [main] BigsmallSiteRunner:19 - Not navigated to wishlist page
+ 2021-11-19 10:31:57,977 ERROR [main] BigsmallSiteRunner:19 - Not navigated to Contact Us page
+ 2021-11-19 10:31:57,991 ERROR [main] BigsmallSiteRunner:19 - Not navigated to the Login Page
+ 2021-11-19 10:31:58,003 ERROR [main] BigsmallSiteRunner:19 - Not navigated to About Us page
+ 
